@@ -1,0 +1,140 @@
+(o|O)[^\s\/]*?@[^\s\/]*(.com|.org)
+138
+Line 25: To: john.lavorato@enron.com
+	Line 125: To: david.l.johnson@enron.com, john.shafer@enron.com
+	Line 125: To: david.l.johnson@enron.com, john.shafer@enron.com
+	Line 131: X-To: david.l.johnson@enron.com, John Shafer
+	Line 142: Keith Holst (kholst@enron.com)
+	Line 155: To: joyce.teixeira@enron.com
+	Line 172: To: mark.scott@enron.com
+	Line 294: To: stagecoachmama@hotmail.com
+	Line 300: X-To: stagecoachmama@hotmail.com
+	Line 326: To: keith.holst@enron.com
+	Line 462: To: keith.holst@enron.com
+	Line 826: To: bs_stone@yahoo.com
+	Line 832: X-To: bs_stone@yahoo.com
+	Line 848: To: stouchstone@natsource.com
+	Line 854: X-To: Steve Touchstone <STouchstone@natsource.com>
+	Line 865: To: bs_stone@yahoo.com
+	Line 871: X-To: ""BS Stone"" <bs_stone@yahoo.com> @ ENRON
+	Line 958: To: jeffrey.hodge@enron.com
+	Line 1018: To: kholst@enron.com
+	Line 1024: X-To: kholst@enron.com
+	Line 1789: ""BS Stone"" <bs_stone@yahoo.com> on 09/26/2000 04:47:40 AM
+	Line 1833: To: christopher.calger@enron.com
+	Line 1988: To: kathy.moore@enron.com
+	Line 2013: To: john.lavorato@enron.com
+	Line 2364: To: stagecoachmama@hotmail.com
+	Line 2370: X-To: stagecoachmama@hotmail.com
+	Line 2386: To: bs_stone@yahoo.com
+	Line 2392: X-To: Brenda Stone <bs_stone@yahoo.com> @ ENRON
+	Line 2415: To: stagecoachmama@hotmail.com
+	Line 2421: X-To: stagecoachmama@hotmail.com
+	Line 2506: To: moshuffle@hotmail.com
+	Line 2512: X-To: moshuffle@hotmail.com
+	Line 2519: http://www.hearme.com/vc2/?chnlOwnr=pallen@enron.com"
+	Line 2523: To: tori.kuykendall@enron.com
+	Line 2603: To: keith.holst@enron.com
+	Line 2723: To: john.lavorato@enron.com
+	Line 2960: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 09/06/2000 09:06:45 AM
+	Line 2996: Enron-admin@FSDDataSvc.com on 09/06/2000 10:12:33 AM
+	Line 3213: =09Outlook.2000@enron.com
+	Line 3245: To: thomas.martin@enron.com, mike.grigsby@enron.com, keith.holst@enron.com, 
+	Line 3245: To: thomas.martin@enron.com, mike.grigsby@enron.com, keith.holst@enron.com, 
+	Line 3554: To: john.lavorato@enron.com
+	Line 3592: cc: ""Debbie Nowak (E-mail)"" <dnowak@enron.com> 
+	Line 3607: From: Christi Smith [mailto:christi.smith@lrinet.com]
+	Line 3641: From: Phillip K Allen [mailto:Phillip.K.Allen@enron.com]
+	Line 3763: To: cooper.richey@enron.com
+	Line 3806: cc: ""Debbie Nowak (E-mail)"" <dnowak@enron.com>, ""Deborah Evans (E-mail)"" 
+	Line 3836: From: Phillip K Allen [mailto:Phillip.K.Allen@enron.com]
+	Line 4023: To: kolinge@enron.com
+	Line 4029: X-To: kolinge@enron.com
+	Line 4085: To: cindy.long@enron.com
+	Line 4149: To: bs_stone@yahoo.com
+	Line 4155: X-To: bs_stone@yahoo.com
+	Line 4170: To: matthew.lenhart@enron.com, mike.grigsby@enron.com, keith.holst@enron.com, 
+	Line 4308: To: alan.comnes@enron.com
+	Line 4329: To: suzanne.nicholie@enron.com
+	Line 4352: To: colleen.sullivan@enron.com
+	Line 4377: Cc: john.lavorato@enron.com, hunter.shively@enron.com
+	Line 4381: Bcc: john.lavorato@enron.com, hunter.shively@enron.com
+	Line 4428: To: stagecoachmama@hotmail.com
+	Line 4434: X-To: stagecoachmama@hotmail.com
+	Line 4463: To: stagecoachmama@hotmail.com
+	Line 4469: X-To: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> @ ENRON
+	Line 4501: To: stagecoachmama@hotmail.com
+	Line 4507: X-To: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> @ ENRON
+	Line 4525: To: stagecoachmama@hotmail.com
+	Line 4531: X-To: stagecoachmama@hotmail.com
+	Line 4546: To: stagecoachmama@hotmail.com
+	Line 4552: X-To: stagecoachmama@hotmail.com
+	Line 4569: To: keith.holst@enron.com
+	Line 4622: To: mac.d.hargrove@rssmb.com
+	Line 4628: X-To: mac.d.hargrove@rssmb.com
+	Line 4693: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/15/2000 02:32:57 PM
+	Line 4735: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/16/2000 02:44:36 PM
+	Line 4774: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/17/2000 02:37:55 PM
+	Line 4796: To: mac.d.hargrove@rssmb.com
+	Line 4802: X-To: ""Hargrove, Mac D"" <mac.d.hargrove@rssmb.com> @ ENRON
+	Line 4821: To: cooper.richey@enron.com
+	Line 4908: To: cooper.richey@enron.com
+	Line 4932: To: cooper.richey@enron.com
+	Line 4976: To: keith.holst@enron.com
+	Line 5029: To: stephen.harrington@enron.com
+	Line 5089: To: keith.holst@enron.com
+	Line 5138: To: colleen.sullivan@enron.com
+	Line 5160: To: stagecoachmama@hotmail.com
+	Line 5166: X-To: stagecoachmama@hotmail.com
+	Line 5368: To: stagecoachmama@hotmail.com
+	Line 5374: X-To: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> @ ENRON
+	Line 5390: To: outlook.team@enron.com
+	Line 5520: To: lisa.jones@enron.com
+	Line 5537: To: mike.grigsby@enron.com, keith.holst@enron.com, frank.ermis@enron.com, 
+	Line 5538: 	jane.tholt@enron.com, steven.south@enron.com
+	Line 5538: 	jane.tholt@enron.com, steven.south@enron.com
+	Line 5617: To: john.lavorato@enron.com
+	Line 5640: To: stagecoachmama@hotmail.com
+	Line 5646: X-To: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> @ ENRON
+	Line 5661: To: mike.grigsby@enron.com, keith.holst@enron.com, matthew.lenhart@enron.com, 
+	Line 5758: To: stagecoachmama@hotmail.com
+	Line 5764: X-To: stagecoachmama@hotmail.com
+	Line 5784: To: mac.d.hargrove@rssmb.com
+	Line 5790: X-To: ""Hargrove, Mac D"" <mac.d.hargrove@rssmb.com> @ ENRON
+	Line 5866: To: Energy.Professional@mailman.enron.com
+	Line 5885: To: al.pollard@enron.com
+	Line 5956: To: frank.davis@enron.com, niamh.clarke@enron.com, sonya.clarke@enron.com
+	Line 6021: To: keith.holst@enron.com
+	Line 6245: To: celeste.roberts@enron.com
+	Line 6268: To: al.pollard@enron.com
+	Line 6426: To: al.pollard@enron.com
+	Line 6528: To: gary.taylor@enron.com
+	Line 6547: To: felix.buitron@enron.com
+	Line 6636: To: stagecoachmama@hotmail.com
+	Line 6642: X-To: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> @ ENRON
+	Line 6745: Lehr/Corp/Enron@ENRON, Iris Wong/CAL/ECT@ECT, Rebecca.Young@enron.com, Maxine 
+	Line 6801: To: mike.grigsby@enron.com, keith.holst@enron.com
+	Line 6882: To: stouchstone@natsource.com
+	Line 6888: X-To: Steve Touchstone <STouchstone@natsource.com>
+	Line 6899: To: stouchstone@natsource.com
+	Line 6905: X-To: Steve Touchstone <STouchstone@natsource.com>
+	Line 6938: To: keith.holst@enron.com
+	Line 7005: To: torrey.moorer@enron.com
+	Line 7047: To: scott.carter@chase.com
+	Line 7053: X-To: ""Carter, Scott"" <Scott.Carter@chase.com> @ ENRON
+	Line 7074: To: stagecoachmama@hotmail.com
+	Line 7080: X-To: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> @ ENRON
+	Line 7276: To: robert.badeer@enron.com
+	Line 7332: To: felix.buitron@enron.com
+	Line 7361: To: stagecoachmama@hotmail.com
+	Line 7367: X-To: stagecoachmama@hotmail.com
+	Line 7413: To: al.pollard@enron.com
+	Line 7452: To: jeffrey.gossett@enron.com
+	Line 7599: To: stagecoachmama@hotmail.com
+	Line 7605: X-To: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> @ ENRON
+	Line 7622: To: stagecoachmama@hotmail.com
+	Line 7628: X-To: stagecoachmama@hotmail.com
+	Line 7679: To: john.lavorato@enron.com
+	Line 7734: To: matthew.lenhart@enron.com, jane.tholt@enron.com, steven.south@enron.com, 
+	Line 7734: To: matthew.lenhart@enron.com, jane.tholt@enron.com, steven.south@enron.com, 
+	Line 7735: 	tori.kuykendall@enron.com, frank.ermis@enron.com
